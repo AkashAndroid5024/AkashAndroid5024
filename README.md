@@ -15,12 +15,22 @@
 ---
 
 ### 🛠 Skills
-- **Programming Languages:** Kotlin, Java, Python, MySQL, C
-- **Frameworks/Tools:** Hibernate, JDBC, Android Studio, Firebase, IntelliJ, VSCode, Git, Github
-- **Certifications:**  
-  - Android App Development  
-  - Exercising Leadership: Foundational Principles (HarvardX)
-  - Obtained 78% in Enhancing Soft Skills and Personality organized by NPTEL.
+#### Programming Languages  
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+#### Frameworks/Tools  
+![Hibernate](https://img.shields.io/badge/Hibernate-%234D4D4D.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%234479A1.svg?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -37,30 +47,25 @@
    - Android applications designed for daily problem-solving and weather updates.  
 
 ---
-
-### 🏆 Achievements
-- 🥉 **3rd Position** in **Mini Anveshna 2024**  
-- 🎖 Interned at **EISystems** and **IBM SkillsBuild**
-- Won Startup Conclave 2024 for Marine Fusion, an idea of a B2B company that provides processed seaweed to the 
-  industries.
-- 3rd Place in Mini Anveshna 2024 for Padmini, a women’s safety platform.
-- 2nd Runner up in 2nd IEEE International Conference SIGHT Poster Presentation  
-
-
----
-
-### 💬 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 akavishwakarma82@gmail.com
-- 📞 8853495024 
-
----
-
 ### 📊 GitHub Stats
 
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashAndroid5024&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashAndroid5024&layout=compact&theme=radical)
 ---
+
+### 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkashAndroid5024&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 💬 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/work-with-akash)  
+- 📧 akavishwakarma82@gmail.com
+- 📞 8853495024 
+
+---
+
 
 ✨ _"Code is like humor. When you have to explain it, it’s bad."_  
 
